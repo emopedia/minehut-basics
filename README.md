@@ -17,4 +17,4 @@ Welcome to the Minehut Basics repository! Here you will find a variety of guides
   
 ###### Note: Each branch will have its own readme file explaining the related topics in details
 
-If you have any questions or need further assistance, feel free to reach out to either emopedia#0001 on Discord or join the [Minehut community](https://discord.gg/minehut).
+If you have any questions or need further assistance, feel free to reach out to either `emopedia#0001` on Discord or join the [Minehut community](https://discord.gg/minehut).
