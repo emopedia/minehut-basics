@@ -15,6 +15,6 @@ Welcome to the Minehut Basics repository! Here you will find a variety of inform
 - [Advanced Topics](https://github.com/emopedia/Minehut-Basics/tree/advanced#readme)
   - Take your server management skills to the next level with advanced topics such as creating backups, using the Skript plugin, and more. This section is intended for more experienced administrators who want to dive deeper into server management and customization.
 
-We understand that setting up and managing a server can be challenging, which is why we've created this repository to provide you with the information and resources you need to be successful. If you have any questions or need further assistance, please don't hesitate to reach out to `emopedia#0001` on Discord, or join the [Minehut community](https://discord.gg/minehut).
+We understand that setting up and managing a server can be challenging, which is why we've created this repository to provide you with the information and resources you need to be successful. If you have any questions or need further assistance, please don't hesitate to join the [Minehut community](https://discord.gg/minehut).
 
 We hope that this repository will be a valuable resource for you as you create and manage your own Minehut server. Whether you're looking to set up a simple survival server for a few friends or a complex network of servers for a large community, we've got you covered.
