@@ -4,15 +4,15 @@ Welcome to the Minehut Basics repository! Here you will find a variety of guides
 
 ### Table of Contents
 
-- [Getting Started](https://github.com/emopedia/Minehut-Basics/tree/getting-started)
+- [Getting Started](https://github.com/emopedia/Minehut-Basics/tree/getting-started#readme)
   - Learn how to create a server on Minehut and connect to it for the first time.
-- [Server Management](https://github.com/emopedia/Minehut-Basics/tree/server-management)
+- [Server Management](https://github.com/emopedia/Minehut-Basics/tree/server-management#readme)
   - Learn how to manage your server, including starting and stopping it, oping players, as well as accessing the server console.
-- [Plugins](https://github.com/emopedia/Minehut-Basics/tree/plugins)
+- [Plugins](https://github.com/emopedia/Minehut-Basics/tree/plugins#readme)
   - Learn how to install and use plugins on your Minehut server.
-- [Customizing Your Server](https://github.com/emopedia/Minehut-Basics/tree/customizing)
+- [Customizing Your Server](https://github.com/emopedia/Minehut-Basics/tree/customizing#readme)
   - Learn how to customize your server's settings and appearance, including setting a custom server icon and motd.
-- [Advanced Topics](https://github.com/emopedia/Minehut-Basics/tree/advanced)
+- [Advanced Topics](https://github.com/emopedia/Minehut-Basics/tree/advanced#readme)
   - Learn about more advanced topics such as creating backups, using Skript, and more.
   
 ###### Note: Each branch will have its own readme file explaining the related topics in details
