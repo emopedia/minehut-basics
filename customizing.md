@@ -8,7 +8,7 @@ This guide will help you understand how to customize your Minehut server setting
 - Upload your server icon (must be 64x64 pixels, in .png format and named `server-icon.png`) into the `root` directory.
 - Save the changes and restart the server for the icon to take effect.
 
-#####To set a custom server icon, your server needs to have any <b>paid</b> plan.
+##### To set a custom server icon, your server needs to have any <b>paid</b> plan.
 
 ### Setting a Custom MOTD
 Minehut has 2 MOTD systems. One for the in-game server GUI menu, and one for the multiplayer screen.
